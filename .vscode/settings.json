@@ -38,6 +38,8 @@
   "files.associations": {
     "bitset": "cpp",
     "iosfwd": "cpp",
-    "iostream": "cpp"
+    "iostream": "cpp",
+    "string": "cpp",
+    "unordered_set": "cpp"
   }
 }
